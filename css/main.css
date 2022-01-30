@@ -1,0 +1,16 @@
+@charset "UTF-8";
+/* CSS Document */
+
+
+
+#container
+{
+  width: 700px;
+  margin: 0 auto;
+
+}
+
+body
+{
+  font-family: 'Open Sans Condensed', Helvetica
+}
